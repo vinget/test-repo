@@ -1,0 +1,5 @@
+config/.describe
+config/.local_store
+config/.session
+config/.settings
+*.sublime-workspace
