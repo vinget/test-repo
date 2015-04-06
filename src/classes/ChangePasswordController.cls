@@ -13,6 +13,7 @@ public with sharing class ChangePasswordController {
     }     
     
    	public ChangePasswordController() {}
+<<<<<<< HEAD
 }
 
 /*
@@ -21,3 +22,6 @@ public with sharing class ChangePasswordController {
 *
 *
 */
+=======
+}
+>>>>>>> 7aef5dc2c9e07151ce03a352db0c097e94436398

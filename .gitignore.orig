@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+config/.session
+config/.settings
+config/.local_store
+config/.debug
+config/.apex_script
+config/.describe
+GovGrants.sublime-project
+GovGrants.sublime-settings
+GovGrants.sublime-workspace
+=======
+<<<<<<< HEAD
+config/.describe
+config/.local_store
+config/.session
+config/.settings
+*.sublime-workspace
+=======
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+
+# Other files and folders
+.settings/
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+>>>>>>> 8f4cafefd15fa7bd9c58959f0a2f49fbd78e197d
+>>>>>>> 7aef5dc2c9e07151ce03a352db0c097e94436398
