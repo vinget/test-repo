@@ -1,6 +1,7 @@
 /**
  * An apex page controller that exposes the change password functionality
  * Adding the default user 
+ * created Date 4/6/2015
  */
 public with sharing class ChangePasswordController {
     public String oldPassword {get; set;}
