@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.sublime-project
 *.sublime-settings
 *.sublime-workspace
@@ -8,3 +9,14 @@ config/.local_store
 config/.org_metadata
 config/.session
 config/.settings
+=======
+config/.session
+config/.settings
+config/.local_store
+config/.debug
+config/.apex_script
+config/.describe
+GovGrants.sublime-project
+GovGrants.sublime-settings
+GovGrants.sublime-workspace
+>>>>>>> 50c23c3fb0a9f937e7cefef21a37054d1cf8ed39
