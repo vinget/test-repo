@@ -1,0 +1,9 @@
+config/.session
+config/.settings
+config/.local_store
+config/.debug
+config/.apex_script
+config/.describe
+GovGrants.sublime-project
+GovGrants.sublime-settings
+GovGrants.sublime-workspace
